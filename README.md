@@ -10,7 +10,7 @@ This series is designed for QA Engineers, Manual Testers, Automation Testers, SD
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|-------------|
 | [qa-mcp-testcase-generator](https://github.com/palaneelam/QA_MCP_TestCase_Generator.git)  | Generate test scenarios, test cases, RTM, risks, and test data using Filesystem MCP | Done        |
 | [qa-jira-mcp-agent](https://github.com/palaneelam/qa-jira-mcp-agent)                      | Read Jira stories and generate QA artifacts                                         | Done         |
-| [qa-browser-mcp-agent](https://github.com/palaneelam/QA_Browser_MCP_Agent.git))           | AI-guided exploratory testing using browser automation                              | Done         |
+| [qa-browser-mcp-agent](https://github.com/palaneelam/QA_Browser_MCP_Agent.git)           | AI-guided exploratory testing using browser automation                              | Done         |
 | [qa-database-mcp-agent](https://github.com/palaneelam/qa-database-mcp-agent)              | Database validation and ETL testing agent                                           | Planned     |
 | [qa-sprint-agent](https://github.com/palaneelam/qa-sprint-agent)                          | Complete sprint-level QA agent                                                      | Planned     |
 | [qa-playwright-mcp](https://github.com/palaneelam/qa-playwright-mcp)                      | Playwright-based MCP testing workflow                                               | Planned     |
